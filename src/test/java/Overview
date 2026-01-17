@@ -1,0 +1,17 @@
+Problem Statement:
+Create a payment service to accept credit card , debitcard , paypal, cryptopayment
+
+lessons to learn:
+using an interface
+creating implementation classes of the interface
+learn about loosely couping classes.
+
+tightly coupling - pre defined behavior for child classes
+behavior and attributes already defined and initialzied in parent class. they may need to be overwritten in child class
+
+
+loosely coupling:
+behavior and attributes are declared in interface class and they are defined in the implementation classes.
+interfaces mainly just use behaviors aka methods
+
+
